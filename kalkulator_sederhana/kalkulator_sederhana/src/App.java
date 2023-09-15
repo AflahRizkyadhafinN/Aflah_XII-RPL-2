@@ -9,7 +9,7 @@ public class App {
         float number1 = scanner.nextFloat();
         System.out.print("Op : ");
         String operator = scanner.next();
-        System.out.print("3 : ");
+        System.out.print("3u : ");
         float number2 = scanner.nextFloat();
         float result;
 
